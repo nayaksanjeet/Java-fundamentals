@@ -1,3 +1,4 @@
+
 package com.sanjeet.corejava.corejava.multithreading;
 
 public class YieldDemo {
@@ -24,3 +25,4 @@ public static void main(String[] args) {
 	System.out.println("Completed");
 }
 }
+
