@@ -3,7 +3,7 @@ package com.sanjeet.corejava.corejava.multithreading;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 class SharedValue{
-	public static int value=1;
+	public static int value=0;
 	
 }
 class EvenPrint implements Runnable{

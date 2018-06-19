@@ -28,3 +28,7 @@ public class ThreadPoolExecutorDemo {
 }
 	
 }
+/* ThreadpoolExecutor executor=(ThreadPoolExecutor) Excecutors.newCachedThreadPool();
+ * executor.execute(task);
+ * executor.shutdown();*/
+ 
